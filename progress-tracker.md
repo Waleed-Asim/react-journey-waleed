@@ -9,7 +9,7 @@ Goal: Become job-ready within 2 months and land a React role.
 ## 🗓️ Week 1 (Git, React Basics, Components)
 | Day | Date | Topic / Task | Status | Notes |
 |-----|------|---------------|---------|--------|
-| 1 | Oct 7 | Git & GitHub setup | ✅ Done |  |
+| 1 | Oct 7 | Git & GitHub setup | ✅ Done | Repo live and working fine |
 | 2 | Oct 8 | Create first React app | ⏳ Pending |  |
 | 3 | Oct 9 | Components practice | ⏳ Pending |  |
 | 4 | Oct 10 | Props (Dynamic Components) | ⏳ Pending |  |
